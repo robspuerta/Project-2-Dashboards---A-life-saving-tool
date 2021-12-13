@@ -1,9 +1,9 @@
-# Project II - Dashboards: A Life Saving Tool
+# Project II - Dashboards: A Life-Saving Tool
 Exploring how a well designed visual tool gives a quick view of the whole company
 
 <img src="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Github%20repository%20banner.png" alt="Robin Puerta Business Process Analyst + Product Analyst">
 
-With new achieved-milestones comes new unforeseen problems, therefore is essential to keep a close eye on our strategy performance so we can make quick adjustments if required, but...
+With new achieved milestones comes new unforeseen problems, therefore is essential to keep a close eye on our strategy performance so we can make quick adjustments if required, but...
 
 ### How can we have a quick but meaningful insight into the key processes' performance?
 
@@ -17,7 +17,7 @@ It is important to have a good data structure to collect and process. I expresse
 
 ## A Practical Example with Sales Campaign
 
-As an exersice, I created this *Dashboard* in *Excel* to enable leaders to <ins>monitor</ins>, <ins>track sales</ins> and <ins>uncover trends</ins>. In a quick review we have: 
+As an exercise, I created this *Dashboard* in *Excel* to enable leaders to <ins>monitor</ins>, <ins>track sales</ins> and <ins>uncover trends</ins>. In a quick review we have: 
 * Sales funnel status per seller
 * Sales funnel status per team
 * Top performance per team and whole campaign.
