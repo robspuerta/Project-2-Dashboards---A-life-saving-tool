@@ -30,7 +30,7 @@ As an exercise, I created this *Dashboard* in *Excel* to enable leaders to <ins>
 
 The idea is not to just automatize repetitive task like gathering, cleaning, and processing data or even creating and sending reports, but ***to channelize this newly available time into tasks that brings value to our customers or the company***, like analyzing and coming up with new ideas.
 
-Let me know in the comments how do you keep up with the *KPIs* to have Knowledge for real-time decision making.
+Let me know in the comments how do you keep up with the *KPIs* to have knowledge for real-time decision making.
 
 <sub>This was an educational exercise and You can check and download the dashboard on [GitHub/RobsPuerta](https://github.com/robspuerta) and more in my [Linkedin](https://www.linkedin.com/in/robin-puerta/). </sub>
 
