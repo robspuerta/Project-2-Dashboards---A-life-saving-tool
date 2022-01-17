@@ -25,12 +25,7 @@ As an exercise, I created this *Dashboard* in *Excel* to enable leaders to <ins>
 * Sales by location
 * Historical performance per manager
 
-(Video / GIF)
-![](https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Dashboards%20-%20Robin.mp4)
-
 ![](https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Dashboards%20-%20Robin.gif)
-
-<img width="1200" align="center" src="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/DashboardNov21.JPG" alt="Robin Puerta Business Process Analyst + Product Analyst">
 
 The idea is not to just automatize repetitive task like gathering, cleaning, and processing data or even creating and sending reports, but ***to channelize this newly available time into tasks that brings value to our customers or the company***, like analyzing and coming up with new ideas.
 
