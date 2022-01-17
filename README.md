@@ -13,11 +13,11 @@ If we mix these two, we create a powerful ally that, as expressed by [Forbes mag
 
 Dashboards provide key insights by gathering multiple metrics that teams can use to understand what is happening and take some actions as required instead of waiting to only realize the damage is already done. 
 
-It is important to have a good data structure to collect and process your data. I expressed some ideas about this topic in my recent post: ["Understanding Customer Behavior"](https://www.linkedin.com/in/robin-puerta/).
+It is important to have a good data structure to collect and process your data. I expressed some ideas about this topic in my recent post: ["Understanding Customer Behavior with CRM"](https://www.linkedin.com/in/robin-puerta/).
 
 ## Excercise: Sales Campaign Dashboard
 
-As an exercise, I created this *Dashboard* in *Excel* to enable leaders to <ins>monitor</ins>, <ins>track sales</ins> and <ins>uncover trends</ins>. In a quick review we have: 
+As an exercise, I created this *Dashboard* in *Excel* to enable leaders to <ins>monitor</ins>, <ins>track sales</ins> and <ins>uncover trends</ins>. With one filter controller (top right) we can control: 
 * Sales funnel status per seller
 * Sales funnel status per team
 * Top performance per team and whole campaign.
