@@ -9,7 +9,7 @@ With new achieved milestones comes new unforeseen problems, therefore is essenti
 
 On one hand, we have **Key Performance Indicators (KPIs)** that are targets that help you measure progress versus your most strategic objectives; and on the other hand, we have **Dashboards** which are visual tools that gather multiple metrics.
 
-If we mix these two, we create a powerful ally that, as expressed by [Forbes magazine](https://www.forbes.com/sites/edwardsegal/2021/11/05/how-dashboards-are-helping-to-monitor-manage-and-prevent-crisis-situations/amp/), helps whole teams to monitor and prevent crisis situations by bringing information in a glance <ins>so you can alter business strategy in real-time</ins>.
+If we mix these two, we create a powerful ally that, as expressed by [Forbes magazine](https://www.forbes.com/sites/edwardsegal/2021/11/05/how-dashboards-are-helping-to-monitor-manage-and-prevent-crisis-situations/amp/), helps whole teams to monitor and prevent crises by bringing information in a glance <ins>so you can alter business strategy in real-time</ins>.
 
 Dashboards provide key insights by gathering multiple metrics that teams can use to understand what is happening and take some actions as required instead of waiting to only realize the damage is already done. 
 
