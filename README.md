@@ -1,7 +1,7 @@
 # Project II - Dashboards: A Life-Saving Tool
 Exploring how a well designed visual tool gives a quick view of the whole company
 
-<img src="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Github%20repository%20banner.png" alt="Robin Puerta Business Process Analyst + Product Analyst">
+<img src="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool/blob/main/Dashboards%20Robin%20Puerta.png" alt="Robin Puerta Business Process Analyst + Product Analyst">
 
 With new achieved milestones comes new unforeseen problems, therefore is essential to keep a close eye on our strategy performance so we can make quick adjustments if required, but...
 
